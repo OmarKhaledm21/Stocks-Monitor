@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f7fa;
+}
+
+.fas.fa-heart:hover {
+    color: #f44336 !important;
+}
+
+.fas.fa-share-alt:hover {
+    color: #0d47a1 !important;
+}
+
+.ib {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.shadow {
+    margin-top: 2px;
+    margin-bottom: 10px;
+    box-shadow: 5px 10px 8px #b9b6b6;
+}

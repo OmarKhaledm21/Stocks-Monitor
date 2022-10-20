@@ -1,0 +1,13 @@
+.main_text {
+    font-weight: bolder;
+}
+
+.item {
+    font-weight: bolder;
+    color: black;
+
+}
+
+.item:hover {
+    font-style: italic;
+}
