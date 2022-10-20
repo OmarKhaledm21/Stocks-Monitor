@@ -6,5 +6,32 @@
 #### - News page can viewed even if user is not logged in and user can click on any news to go to their url.
 #### - User can remove a stock from his list or share it with a friend and user added stocks are being checked on a database containting 25K+ stock symbols fetched from finnHub API so as to validate stock name.
 
-
+##### - User Stocks Page
 <img src="https://github.com/OmarKhaledm21/Stocks-Monitor/blob/main/SS/User%20Stocks%20Page.png" />
+
+
+##### - User Profile Page
+<img src="https://github.com/OmarKhaledm21/Stocks-Monitor/blob/main/SS/User%20Profile.png" />
+
+
+##### - User Add Stock Page
+<img src="https://github.com/OmarKhaledm21/Stocks-Monitor/blob/main/SS/Add%20Stock.png" />
+
+##### - Page Loading
+<img src="https://github.com/OmarKhaledm21/Stocks-Monitor/blob/main/SS/Loading.png" />
+
+##### - News Home Page
+<img src="https://github.com/OmarKhaledm21/Stocks-Monitor/blob/main/SS/User%20News.png" />
+
+
+##### - User Signup Page
+<img src="https://github.com/OmarKhaledm21/Stocks-Monitor/blob/main/SS/Signup.png" />
+
+
+##### - Footer Page
+<img src="https://github.com/OmarKhaledm21/Stocks-Monitor/blob/main/SS/Footer.png" />
+
+
+##### - RestJS Frontend Project Structure
+<img src="https://github.com/OmarKhaledm21/Stocks-Monitor/blob/main/SS/react%20structure.png" />
+
